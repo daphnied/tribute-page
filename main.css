@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+
+}
+
+h2 {
+  color:white;
+
+}
+img {
+  border-radius: 100;
+}
+
+
+#wrapper {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+
+}
+
+body {
+  background-image: url("http://albumarium.com/media/W1siZiIsIjU0NWY2NWFmNzY3MDczNjc3MzgxMzUwMCJdXQ?sha=6624b9e8");
+}
+
+footer {
+  color: white;
+}
+
+a {
+  color: #53edb7;
+}
